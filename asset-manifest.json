@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/realsuraj.github.io/reactNativeBlog/static/css/main.57fa8b21.chunk.css",
-    "main.js": "/realsuraj.github.io/reactNativeBlog/static/js/main.e65f39c5.chunk.js",
-    "main.js.map": "/realsuraj.github.io/reactNativeBlog/static/js/main.e65f39c5.chunk.js.map",
-    "runtime-main.js": "/realsuraj.github.io/reactNativeBlog/static/js/runtime-main.40f09169.js",
-    "runtime-main.js.map": "/realsuraj.github.io/reactNativeBlog/static/js/runtime-main.40f09169.js.map",
-    "static/css/2.ea6b7726.chunk.css": "/realsuraj.github.io/reactNativeBlog/static/css/2.ea6b7726.chunk.css",
-    "static/js/2.9fe58e58.chunk.js": "/realsuraj.github.io/reactNativeBlog/static/js/2.9fe58e58.chunk.js",
-    "static/js/2.9fe58e58.chunk.js.map": "/realsuraj.github.io/reactNativeBlog/static/js/2.9fe58e58.chunk.js.map",
-    "index.html": "/realsuraj.github.io/reactNativeBlog/index.html",
-    "precache-manifest.d87f2b620d265297a6fdf2447d5e5e67.js": "/realsuraj.github.io/reactNativeBlog/precache-manifest.d87f2b620d265297a6fdf2447d5e5e67.js",
-    "service-worker.js": "/realsuraj.github.io/reactNativeBlog/service-worker.js",
-    "static/css/2.ea6b7726.chunk.css.map": "/realsuraj.github.io/reactNativeBlog/static/css/2.ea6b7726.chunk.css.map",
-    "static/css/main.57fa8b21.chunk.css.map": "/realsuraj.github.io/reactNativeBlog/static/css/main.57fa8b21.chunk.css.map",
-    "static/js/2.9fe58e58.chunk.js.LICENSE.txt": "/realsuraj.github.io/reactNativeBlog/static/js/2.9fe58e58.chunk.js.LICENSE.txt",
-    "static/media/home_svg.png": "/realsuraj.github.io/reactNativeBlog/static/media/home_svg.1c76677c.png",
-    "static/media/img1.png": "/realsuraj.github.io/reactNativeBlog/static/media/img1.1cdd215a.png",
-    "static/media/img2.png": "/realsuraj.github.io/reactNativeBlog/static/media/img2.03a7e352.png"
+    "main.css": "/reactNativeBlog/static/css/main.57fa8b21.chunk.css",
+    "main.js": "/reactNativeBlog/static/js/main.17460e6c.chunk.js",
+    "main.js.map": "/reactNativeBlog/static/js/main.17460e6c.chunk.js.map",
+    "runtime-main.js": "/reactNativeBlog/static/js/runtime-main.7e188c5c.js",
+    "runtime-main.js.map": "/reactNativeBlog/static/js/runtime-main.7e188c5c.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/reactNativeBlog/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.9fe58e58.chunk.js": "/reactNativeBlog/static/js/2.9fe58e58.chunk.js",
+    "static/js/2.9fe58e58.chunk.js.map": "/reactNativeBlog/static/js/2.9fe58e58.chunk.js.map",
+    "index.html": "/reactNativeBlog/index.html",
+    "precache-manifest.8a22f05d6820948405390f699ba8dae7.js": "/reactNativeBlog/precache-manifest.8a22f05d6820948405390f699ba8dae7.js",
+    "service-worker.js": "/reactNativeBlog/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/reactNativeBlog/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.57fa8b21.chunk.css.map": "/reactNativeBlog/static/css/main.57fa8b21.chunk.css.map",
+    "static/js/2.9fe58e58.chunk.js.LICENSE.txt": "/reactNativeBlog/static/js/2.9fe58e58.chunk.js.LICENSE.txt",
+    "static/media/home_svg.png": "/reactNativeBlog/static/media/home_svg.1c76677c.png",
+    "static/media/img1.png": "/reactNativeBlog/static/media/img1.1cdd215a.png",
+    "static/media/img2.png": "/reactNativeBlog/static/media/img2.03a7e352.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.40f09169.js",
+    "static/js/runtime-main.7e188c5c.js",
     "static/css/2.ea6b7726.chunk.css",
     "static/js/2.9fe58e58.chunk.js",
     "static/css/main.57fa8b21.chunk.css",
-    "static/js/main.e65f39c5.chunk.js"
+    "static/js/main.17460e6c.chunk.js"
   ]
 }
