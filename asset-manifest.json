@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/realsuraj.github.io/reactNativeBlog/static/css/main.57fa8b21.chunk.css",
-    "main.js": "/realsuraj.github.io/reactNativeBlog/static/js/main.42a550f0.chunk.js",
-    "main.js.map": "/realsuraj.github.io/reactNativeBlog/static/js/main.42a550f0.chunk.js.map",
+    "main.js": "/realsuraj.github.io/reactNativeBlog/static/js/main.e65f39c5.chunk.js",
+    "main.js.map": "/realsuraj.github.io/reactNativeBlog/static/js/main.e65f39c5.chunk.js.map",
     "runtime-main.js": "/realsuraj.github.io/reactNativeBlog/static/js/runtime-main.40f09169.js",
     "runtime-main.js.map": "/realsuraj.github.io/reactNativeBlog/static/js/runtime-main.40f09169.js.map",
     "static/css/2.ea6b7726.chunk.css": "/realsuraj.github.io/reactNativeBlog/static/css/2.ea6b7726.chunk.css",
     "static/js/2.9fe58e58.chunk.js": "/realsuraj.github.io/reactNativeBlog/static/js/2.9fe58e58.chunk.js",
     "static/js/2.9fe58e58.chunk.js.map": "/realsuraj.github.io/reactNativeBlog/static/js/2.9fe58e58.chunk.js.map",
     "index.html": "/realsuraj.github.io/reactNativeBlog/index.html",
-    "precache-manifest.b50838e918e6aa373361a564e72a3151.js": "/realsuraj.github.io/reactNativeBlog/precache-manifest.b50838e918e6aa373361a564e72a3151.js",
+    "precache-manifest.d87f2b620d265297a6fdf2447d5e5e67.js": "/realsuraj.github.io/reactNativeBlog/precache-manifest.d87f2b620d265297a6fdf2447d5e5e67.js",
     "service-worker.js": "/realsuraj.github.io/reactNativeBlog/service-worker.js",
     "static/css/2.ea6b7726.chunk.css.map": "/realsuraj.github.io/reactNativeBlog/static/css/2.ea6b7726.chunk.css.map",
     "static/css/main.57fa8b21.chunk.css.map": "/realsuraj.github.io/reactNativeBlog/static/css/main.57fa8b21.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.ea6b7726.chunk.css",
     "static/js/2.9fe58e58.chunk.js",
     "static/css/main.57fa8b21.chunk.css",
-    "static/js/main.42a550f0.chunk.js"
+    "static/js/main.e65f39c5.chunk.js"
   ]
 }

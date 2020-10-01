@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6120aabdb4dc004df1f53a8281c4cf51",
+    "revision": "ef7af4c7a842b77cf2ea6d4f40388939",
     "url": "/realsuraj.github.io/reactNativeBlog/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/realsuraj.github.io/reactNativeBlog/static/css/2.ea6b7726.chunk.css"
   },
   {
-    "revision": "b425a208c0f6c6ebd791",
+    "revision": "c7b3d51a467caab88b67",
     "url": "/realsuraj.github.io/reactNativeBlog/static/css/main.57fa8b21.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/realsuraj.github.io/reactNativeBlog/static/js/2.9fe58e58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b425a208c0f6c6ebd791",
-    "url": "/realsuraj.github.io/reactNativeBlog/static/js/main.42a550f0.chunk.js"
+    "revision": "c7b3d51a467caab88b67",
+    "url": "/realsuraj.github.io/reactNativeBlog/static/js/main.e65f39c5.chunk.js"
   },
   {
     "revision": "a55c075aff0890bada26",
